@@ -36,7 +36,7 @@ function Footer() {
                 <i className="fab fa-twitter"></i>
               </a>
               <a
-                href="https://github.com/developer-dsvdsv"
+                href="https://github.com/developer-junaid"
                 rel="noopener noreferrer"
                 target="_blank"
               >
@@ -44,7 +44,7 @@ function Footer() {
               </a>
             </div>
             <p className="copyright">
-              Copyright&nbsp;&copy;&nbsp;© Nike Shoes Template
+              Copyright&nbsp;&copy;&nbsp;Nike Shoes Template
             </p>
             <br />
           </div>
