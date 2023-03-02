@@ -93,7 +93,7 @@ function OrderSummary() {
             {address}, {city}, {state}, {zip_code}, {country}{" "}
           </p>
           <br />
-          <p>Payment: "Cashy On Dalivery"</p>
+          <p>Payment: "Cash On Delivery"</p>
           <br />
         </div>
 
