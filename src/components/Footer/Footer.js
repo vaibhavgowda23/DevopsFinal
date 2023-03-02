@@ -29,7 +29,7 @@ function Footer() {
                 <i className="fab fa-linkedin"></i>
               </a>
               <a
-                href="https://twitter.com/dsvdsv/"
+                href="https://twitter.com/Junaid084869/"
                 rel="noopener noreferrer"
                 target="_blank"
               >
