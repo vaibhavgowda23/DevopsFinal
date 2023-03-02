@@ -8,9 +8,8 @@ function Home() {
       <div>
         <span className="tagline">JUST DO IT</span>
         <div className="tagline-para">
-          Nike has been your compadsdvsdvnion in happiness, both big and small, for
-          over 50 years. Our roots are firmly grounded in India and with its
-          people.
+        Nike has been your companion in happiness, both big and small,
+         for over 50 years. Our roots are firmly grounded in Pakistan and with its people.
         </div>
 
         <br />
